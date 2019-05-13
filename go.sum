@@ -1,0 +1,10 @@
+github.com/go-modules-by-example-staging/goinfo v1.0.0 h1:Zvon9UrmvMkjNh6JhBTMCZmpf42rpw1vLGC/5vyM8z4=
+github.com/go-modules-by-example-staging/goinfo v1.0.0/go.mod h1:/zdOZsDHgOpWGeSLJeTSLOr2OPPAiKgDRspiV4tKbV4=
+github.com/go-modules-by-example-staging/goinfo-maj-branch v1.0.0 h1:8rD1Y98hRQIB2bJoRgDXvOAToY+Vm14p6avVLMwQUVg=
+github.com/go-modules-by-example-staging/goinfo-maj-branch v1.0.0/go.mod h1:O+Fwpm0WIGNuztpEOFkGE+woHQcqyv21Qnyix41RBgM=
+github.com/go-modules-by-example-staging/goinfo-maj-branch/v2 v2.0.0 h1:WXoeyN6758Ln+SxpiiToDi7xnHv+iNooEtUERRaI23c=
+github.com/go-modules-by-example-staging/goinfo-maj-branch/v2 v2.0.0/go.mod h1:PEHYlmPfhk3Pn5Cgg/fvEd0+aQjQIjP6g+0PN3PdOlM=
+github.com/go-modules-by-example-staging/goinfo-maj-subdir v1.0.0 h1:4zqeqEdfP8WXMLMXvQlGHn7OP6LH/tL6BGsoAaALy7k=
+github.com/go-modules-by-example-staging/goinfo-maj-subdir v1.0.0/go.mod h1:jbTi0YZTFM6/ub4CYiGNWCchHfPs+4+G461/PM2/tb0=
+github.com/go-modules-by-example-staging/goinfo-maj-subdir/v2 v2.0.0 h1:EOs054eV2deEz2ceBwKOIL4DLuP96lY2b19ujJ+ahwM=
+github.com/go-modules-by-example-staging/goinfo-maj-subdir/v2 v2.0.0/go.mod h1:n8mhrjxePoo5Ho2LGL6DH4QZKf+NF8Klgs/rI4BHhk0=
